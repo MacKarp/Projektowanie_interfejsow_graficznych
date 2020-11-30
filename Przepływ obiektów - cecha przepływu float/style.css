@@ -1,0 +1,16 @@
+div.blok{
+    height: 96px; 
+    width: 96px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #333c2e;
+    background-color: #c3dab0;
+    float: left;
+    margin: 5px;
+}
+
+div.ramka{
+    outline: 2px;
+    outline-style: solid;
+    outline-color: #93a9cc;
+}
