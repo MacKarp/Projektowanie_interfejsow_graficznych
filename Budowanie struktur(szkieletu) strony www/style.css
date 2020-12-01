@@ -1,0 +1,45 @@
+body{
+    max-width: 1003px;
+}
+div.kontener{
+    width: 970px;
+    background-color: #dadada;
+    padding: 10px;
+}
+
+div.pierwszy{
+    background-color: #c91f1f;
+    margin: 10px;
+    height: 200px;
+}
+
+div.drugi{
+    background-color: #8d1717;
+    margin: 10px;
+    height: 180px;
+}
+
+div.lewy{
+    width: 550px;
+    float: left;
+}
+
+div.prawy{
+    width: 360px;
+    float: left;
+}
+
+div.kwadrat{
+    width: 31.2%;
+    float: left;
+}
+
+div.trzeci{
+    background-color: black;
+    height: 400px;
+    margin: 10px;
+}
+
+div.maly{
+    height: 80px;
+}
